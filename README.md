@@ -31,3 +31,6 @@ Excited to unveil the latest insights from my recent dashboard project!
 
 # check out the Project:
 https://www.novypro.com/project/coffee-shop-sales-analysis-2
+
+# Data Set Link:
+https://mavenanalytics.io/data-playground?page=3&pageSize=5
