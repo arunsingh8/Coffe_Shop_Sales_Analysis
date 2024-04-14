@@ -1,8 +1,8 @@
-Dashboard Image
-![Coffee_Shop_Sales](https://github.com/arunsingh8/Coffe_Shop_Sales_Analysis/assets/112901373/1582fa98-03d7-4bbc-bfb8-25dc6edeab26)
-
 # Coffe_Shop_Sales_Analysis
 This dashboard provides valuable insights into various aspects of sales activity, including revenue generation, sales patterns across different time intervals and store locations, product performance. 
+
+Dashboard Image
+![Coffee_Shop_Sales](https://github.com/arunsingh8/Coffe_Shop_Sales_Analysis/assets/112901373/1582fa98-03d7-4bbc-bfb8-25dc6edeab26)
 
 # Tools Used :
 1. MS Excel
